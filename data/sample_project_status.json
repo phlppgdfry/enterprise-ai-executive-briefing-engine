@@ -1,0 +1,78 @@
+{
+  "program_name": "Project HarborScale - Port Logistics & Digital Core Transformation",
+  "reporting_period": "2026-Q4",
+  "executive_sponsor": "Chief Operating Officer",
+  "program_manager": "Enterprise Architecture & Transformation Office",
+  "overall_status": "AMBER",
+  "budget": {
+    "total_allocated_eur": 3500000,
+    "spent_to_date_eur": 2180000,
+    "forecast_to_complete_eur": 3420000,
+    "variance_pct": -2.3
+  },
+  "milestones": [
+    {
+      "id": "M1",
+      "name": "Cloud-Native Data Ingestion Pipeline",
+      "target_date": "2026-03-31",
+      "completed_date": "2026-03-25",
+      "status": "COMPLETED",
+      "completion_pct": 100
+    },
+    {
+      "id": "M2",
+      "name": "Terminal Operating System (TOS) Integration API",
+      "target_date": "2026-06-30",
+      "completed_date": "2026-06-28",
+      "status": "COMPLETED",
+      "completion_pct": 100
+    },
+    {
+      "id": "M3",
+      "name": "Automated Yard Gate & OCR Recognition Engine",
+      "target_date": "2026-09-30",
+      "completed_date": "2026-10-12",
+      "status": "COMPLETED_WITH_DELAY",
+      "completion_pct": 100
+    },
+    {
+      "id": "M4",
+      "name": "Predictive Berth Allocation & AI Scheduling",
+      "target_date": "2026-12-15",
+      "completed_date": null,
+      "status": "IN_PROGRESS",
+      "completion_pct": 78
+    },
+    {
+      "id": "M5",
+      "name": "Full Cutover & Legacy Mainframe Decommission",
+      "target_date": "2027-02-28",
+      "completed_date": null,
+      "status": "PENDING_DEPENDENCY",
+      "completion_pct": 20
+    }
+  ],
+  "critical_risks": [
+    {
+      "risk_id": "RSK-01",
+      "title": "EDI Parser Vendor API Rate Limiting",
+      "impact": "HIGH",
+      "likelihood": "MEDIUM",
+      "mitigation": "Implemented local Redis cache layer and batched micro-queues. Throughput increased by 420%.",
+      "owner": "Integration Architect"
+    },
+    {
+      "risk_id": "RSK-02",
+      "title": "Harbor Pilot Mobile App Offline Sync Conflict",
+      "impact": "MEDIUM",
+      "likelihood": "LOW",
+      "mitigation": "Migrated to CRDT-based deterministic state synchronization with automatic conflict resolution.",
+      "owner": "Lead Mobile Engineer"
+    }
+  ],
+  "key_accomplishments": [
+    "Successfully cut gate turnaround dwell time from 42 minutes to 16.5 minutes per truck.",
+    "Integrated 18 shipping carriers via AS2 / EDIFACT / JSON REST connectors with 99.98% uptime.",
+    "Achieved ISO 27001 data security compliance across all ingestion endpoints."
+  ]
+}
