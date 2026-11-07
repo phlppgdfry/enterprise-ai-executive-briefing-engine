@@ -10,7 +10,19 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connected%20App%20Ready-0077b5.svg)](LINKEDIN_AND_CREDENTIALS_GUIDE.md)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
+<div align="center">
+  <br />
+  <img src="assets/gamma-certified-architect-badge.svg" alt="Gamma Certified Architect Badge" width="480" />
+  <br /><br />
+  <a href="https://gamma.app/docs/1eqo5e0w0wl2lcn">
+    <img src="https://img.shields.io/badge/Live%20Deck-View%20on%20Gamma.app-6366f1?style=for-the-badge&logo=airplayvideo&logoColor=white" alt="View on Gamma" />
+  </a>
+  <br /><br />
+</div>
+
 > **Autonomous multi-agent presentation platform that transforms raw enterprise data (financial ledgers, project registers, GitHub telemetry) into audit-verified, executive-ready presentations via Gamma MCP and REST API.**
+
+👉 **Live Board Briefing in Gamma**: [https://gamma.app/docs/1eqo5e0w0wl2lcn](https://gamma.app/docs/1eqo5e0w0wl2lcn)
 
 ---
 
