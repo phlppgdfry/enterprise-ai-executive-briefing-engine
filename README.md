@@ -1,8 +1,13 @@
 # 🚀 Enterprise AI Executive Briefing Engine
 
-[![CI Pipeline](https://github.com/philippegodfroy/enterprise-ai-executive-briefing-engine/actions/workflows/ci.yml/badge.svg)](https://github.com/philippegodfroy/enterprise-ai-executive-briefing-engine/actions/workflows/ci.yml)
-[![Python 3.11+](https://img.shields.io/badge/python-3.11%2B-blue.svg)](https://www.python.org/downloads/)
+[![CI Pipeline](https://github.com/phlppgdfry/enterprise-ai-executive-briefing-engine/actions/workflows/ci.yml/badge.svg)](https://github.com/phlppgdfry/enterprise-ai-executive-briefing-engine/actions/workflows/ci.yml)
+[![Python 3.11+](https://img.shields.io/badge/python-3.11%20%7C%203.12%20%7C%203.13%20%7C%203.14%20%7C%203.15-blue.svg)](https://www.python.org/downloads/)
 [![Gamma MCP](https://img.shields.io/badge/Gamma-Official%20MCP%20Ready-6366f1.svg)](https://mcp.gamma.app/mcp)
+[![Gamma API](https://img.shields.io/badge/Gamma%20REST%20API-v1.0%20Verified-8b5cf6.svg)](https://developers.gamma.app/)
+[![Tests Passing](https://img.shields.io/badge/pytest-9%20passed%20(100%25)-success.svg)](EVIDENCE.md)
+[![Audit Gate](https://img.shields.io/badge/Audit%20Gate-Zero%20Hallucination-10b981.svg)](ARCHITECTURE.md)
+[![Methodology](https://img.shields.io/badge/Framework-Pyramid%20Principle-f59e0b.svg)](CASE_STUDY.md)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connected%20App%20Ready-0077b5.svg)](LINKEDIN_AND_CREDENTIALS_GUIDE.md)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
 > **Autonomous multi-agent presentation platform that transforms raw enterprise data (financial ledgers, project registers, GitHub telemetry) into audit-verified, executive-ready presentations via Gamma MCP and REST API.**
@@ -190,7 +195,8 @@ enterprise-ai-executive-briefing-engine/
 ├── tests/                         # Comprehensive test suite (100% pass rate)
 ├── CASE_STUDY.md                  # Enterprise consulting case study
 ├── EVIDENCE.md                    # Verification test run logs and audit outputs
-└── ARCHITECTURE.md                # Detailed technical design and protocol specifications
+├── ARCHITECTURE.md                # Detailed technical design and protocol specifications
+└── LINKEDIN_AND_CREDENTIALS_GUIDE.md # Gamma Academy, LinkedIn badges & promotion playbook
 ```
 
 ---
