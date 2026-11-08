@@ -14,15 +14,26 @@
   <br />
   <img src="assets/gamma-certified-architect-badge.svg" alt="Gamma Certified Architect Badge" width="480" />
   <br /><br />
-  <a href="https://gamma.app/docs/1eqo5e0w0wl2lcn">
-    <img src="https://img.shields.io/badge/Live%20Deck-View%20on%20Gamma.app-6366f1?style=for-the-badge&logo=airplayvideo&logoColor=white" alt="View on Gamma" />
+  <a href="https://gamma.app/docs/Executive-Board-Briefing-Strategic-Performance-Review-1eqo5e0w0wl2lcn">
+    <img src="https://img.shields.io/badge/Live%20Deck%201-Executive%20Board%20Briefing-6366f1?style=for-the-badge&logo=airplayvideo&logoColor=white" alt="View Deck 1" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://gamma.app/docs/Executive-Summary-Autonomous-Maritime-Logistics-yxavx0kfz6ahm58">
+    <img src="https://img.shields.io/badge/Live%20Deck%202-PortOps--AI%20Roadmap-10b981?style=for-the-badge&logo=airplayvideo&logoColor=white" alt="View Deck 2" />
   </a>
   <br /><br />
 </div>
 
 > **Autonomous multi-agent presentation platform that transforms raw enterprise data (financial ledgers, project registers, GitHub telemetry) into audit-verified, executive-ready presentations via Gamma MCP and REST API.**
 
-👉 **Live Board Briefing in Gamma**: [https://gamma.app/docs/1eqo5e0w0wl2lcn](https://gamma.app/docs/1eqo5e0w0wl2lcn)
+### 🌐 Live Production Presentations in Gamma
+
+1. **Executive Board Briefing & Strategic Performance Review**:
+   - 🔗 Live Gamma URL: [https://gamma.app/docs/Executive-Board-Briefing-Strategic-Performance-Review-1eqo5e0w0wl2lcn](https://gamma.app/docs/Executive-Board-Briefing-Strategic-Performance-Review-1eqo5e0w0wl2lcn)
+   - 📄 Download Vector PDF: [`output/Executive_Board_Briefing.pdf`](output/Executive_Board_Briefing.pdf)
+2. **PortOps-AI: Autonomous Maritime Logistics & Strategic Roadmap**:
+   - 🔗 Live Gamma URL: [https://gamma.app/docs/Executive-Summary-Autonomous-Maritime-Logistics-yxavx0kfz6ahm58](https://gamma.app/docs/Executive-Summary-Autonomous-Maritime-Logistics-yxavx0kfz6ahm58)
+   - 📄 Download Vector PDF: [`output/PortOps_AI_Executive_Presentation.pdf`](output/PortOps_AI_Executive_Presentation.pdf)
 
 ---
 
